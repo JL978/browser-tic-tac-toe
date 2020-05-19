@@ -30,14 +30,16 @@ body{
 }
 
 .toe-box{
-    border: 1px #ccc solid;
+    /* border: 1px #ccc solid; */
     width: 80vw;
     height: 80vw;
     max-width: 300px;
     max-height: 300px;
 }
 
-
+.message{
+    text-align: center;
+}
 /* .grid-container{
     display: flex;
     flex-wrap: wrap ;
